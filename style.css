@@ -1,0 +1,36 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+body {
+    background-image: url(image/bgimg.jpeg);
+
+}
+#home{
+    border-bottom: 1px solid cyan;
+    color: white;
+}
+#home:hover {
+    color: black;
+    background-color: cyan;
+    padding: 5px;
+}
+#welcome{
+    font-family: "Trirong", serif;
+    margin-top: 85px;
+    color:#dfe8ed;
+    
+}
+#para{
+    margin-top: 20px;
+    
+}
+#paracss{
+    font-family: "Times New Roman", Times, serif;
+    color:cyan;
+    font-size: 22px;
+    padding-left: 15px;
+}
+#btmargine{
+    margin-top: 50px;
+}

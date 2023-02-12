@@ -1,0 +1,30 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+#home{
+    border-bottom: 1px solid cyan;
+    color: white;
+}
+#home:hover {
+    color: black;
+    background-color: cyan;
+    padding: 5px;
+}
+#head{
+    margin-top: 20px;
+    color:gold;
+    text-align: center;
+}
+#tb{
+    margin-top: 20px;
+}
+table,tr,th{
+    color: white;
+        
+}
+tr:hover{
+    color: gold;
+}
+
+
